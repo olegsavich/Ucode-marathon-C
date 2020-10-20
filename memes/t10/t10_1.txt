@@ -1,0 +1,29 @@
+<key>_name</key>
+<dict>
+    <key>_isColumn</key>
+    <string>YES</string>
+    <key>_isOutlineColumn</key>
+    <string>YES</string>
+    <key>_order</key>
+    <string>0</string>
+</dict>
+<key>bsd_name</key>
+<dict>
+    <key>_order</key>
+    <string>62</string>
+</dict>
+<key>detachable_drive</key>
+<dict>
+    <key>_order</key>
+    <string>59</string>
+</dict>
+<key>device_manufacturer</key>
+<dict>
+    <key>_order</key>
+    <string>40</string>
+</dict>
+<key>device_model</key>
+<dict>
+    <key>_order</key>
+    <string>44</string>
+</dict>

@@ -1,0 +1,12 @@
+6c6
+<     <string>YES</string>
+---
+>     <string>NO</string>
+18c18
+<     <string>59</string>
+---
+>     <string>69</string>
+28c28
+<     <string>44</string>
+---
+>     <string>46</string>

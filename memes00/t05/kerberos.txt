@@ -1,0 +1,3 @@
+klist
+kinit
+kdestroy -c

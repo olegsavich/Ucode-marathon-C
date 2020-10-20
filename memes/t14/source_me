@@ -1,0 +1,3 @@
+alias ga="git add"
+alias gcmg="git commit -m"
+alias gp="git push"

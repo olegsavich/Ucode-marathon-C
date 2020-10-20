@@ -1,0 +1,25 @@
+#include "mx_strlen.c"
+#include "mx_printstr.c"
+#include <stdio.h>>
+
+void mx_is_positive(int i)
+{
+  if (i > 0)
+    {
+      write(1, mx_printstr("positive"), mx_strlen("positive");
+    }
+  elif (i < 0)
+    {
+      write(1, mx_printstr("negative"),mx_strlen("negative");
+    }
+  else
+    {
+      write(1, mx_printstr("zero"),mx_strlen("zero");
+    }
+}
+
+int main()
+{
+  mx_is_positive(2);
+}
+

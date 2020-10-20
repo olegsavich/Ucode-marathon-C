@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int mx_sum_digits(int num){
+    int sum = 0;
+    while (num > 0){
+    int a = num % 10;
+    sum = sum + a;
+    num  = num / 10;
+    }
+    return sum;
+}
+int main(){
+  printf("%d\n", mx_sum_digits(435));
+  printf("%d\n", mx_sum_digits(-555));
+}

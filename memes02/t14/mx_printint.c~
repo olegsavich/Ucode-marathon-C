@@ -1,0 +1,10 @@
+#include "mx_printchar.c"
+void mx_printint(int n){
+  char c = n + '0';
+  mx_printchar(c);
+}
+int main()
+{
+  mx_printint(25);
+  mx_printint(2147483647);
+}
