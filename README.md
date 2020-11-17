@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <table width="100%" border="0" cellpadding="4" align="left">  
+    <table width="100%" border="0" cellpadding="3" align="left">  
         <tr>
             <th>Name</th>
             <th>Description</th>
