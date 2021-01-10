@@ -83,12 +83,12 @@
         <tr>
             <th>Race00</th>
             <th>Representation of 3d cube and pyramid on the standard output.</th>
-            <th>100</th>
+            <th>97</th>
         </tr>
         <tr>
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
-            <th>0</th>
+            <th>50</th>
         </tr>
         <tr>
             <th>Race02</th>
@@ -98,7 +98,7 @@
         <tr>
             <th>Race03</th>
             <th>Simulate the Matrix screensaver.</th>
-            <th>0</th>
+            <th>97</th>
         </tr>
         <tr>
             <th>Checkpoint00</th>
